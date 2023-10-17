@@ -1,0 +1,223 @@
+Antwerp_International_Airport | operatingOrganisation | Flemish_Government
+Denmark | demonym | Danes
+United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya
+Adams_County,_Pennsylvania | has to its southeast | Carroll_County,_Maryland
+Azerbaijan | leader | Artur_Rasizade
+Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan
+Asher_and_Mary_Isabelle_Richardson_House | ReferenceNumber in the National Register of Historic Places | "88002539"
+Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner
+New_York_City | isPartOf | New_Netherland
+Aenir | language | English_language
+American_Journal_of_Mathematics | academicDiscipline | Mathematics
+United_States | ethnicGroup | Asian_Americans
+A.D._Isidro_Metapán | league | Salvadoran_Primera_División
+Gubbio | region | Umbria
+St._Vincent–St._Mary_High_School | country | United_States
+1_Decembrie_1918_University | state | Alba
+Kerala | has to its northwest | Mahé,_India
+Romania | capital | Bucharest
+Buzz_Aldrin | was selected by NASA | 1963
+California | gemstone | Benitoite
+Elliot_See | deathDate | "1966-02-28"
+Ben_Urich | fullName | "Benjamin Urich"
+Bibbo_Bibbowski | creator | Jerry_Ordway
+Karl_Kesel | nationality | Americans
+Antioch,_California | isPartOf | Contra_Costa_County,_California
+Orange_County,_California | country | United_States
+United_States_House_of_Representatives | location | United_States_Capitol
+Batagor | dishVariation | Shumai
+Bionico | region | Jalisco
+Indonesia | language | Indonesian_language
+11th_Mississippi_Infantry_Monument | established | 2000<br>11th_Mississippi_Infantry_Monument | category | Contributing_property
+14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield<br>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland
+Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"<br>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Arlington,_Texas | elevationAboveTheSeaLevel | 184.0<br>Arlington,_Texas | areaTotal | 258.2 (square kilometres)
+Atlantic_City,_New_Jersey | country | United_States<br>United_States | capital | Washington,_D.C.
+United_States | capital | Washington,_D.C.<br>Albany,_Oregon | isPartOf | United_States
+Ayam_penyet | region | Malaysia<br>Ayam_penyet | country | Indonesia
+Baked_Alaska | country | France<br>Baked_Alaska | ingredient | Sponge_cake
+Beef_kway_teow | mainIngredients | "Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil"<br>Beef_kway_teow | country | "Singapore and Indonesia"
+Allama_Iqbal_International_Airport | location | Pakistan<br>Pakistan | leaderName | Anwar_Zaheer_Jamali
+Angola_International_Airport | runwayLength | 3800.0<br>Angola_International_Airport | cityServed | Luanda
+Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey<br>Egg_Harbor_Township,_New_Jersey | country | United_States
+A.C._Chievo_Verona | ground | "Verona, Italy"<br>A.C._Chievo_Verona | numberOfMembers | 39371
+A.C._Chievo_Verona | manager | Rolando_Maran<br>Rolando_Maran | placeOfBirth | Italy
+AZAL_PFK | ground | AZAL_Arena<br>AZAL_PFK | location | "Shuvalan, Baku, Azerbaijan"
+1634:_The_Bavarian_Crisis | author | Eric_Flint<br>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes
+A_Fortress_of_Grey_Ice | numberOfPages | "672"<br>A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"
+A_Long_Long_Way | numberOfPages | "292"<br>A_Long_Long_Way | ISBN_number | "0-670-03380-4"
+1_Decembrie_1918_University | nickname | Uab<br>1_Decembrie_1918_University | state | Alba
+Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University<br>Visvesvaraya_Technological_University | city | Belgaum
+Kerala | leaderName | Kochi<br>AWH_Engineering_College | state | Kerala
+Bananaman | starring | Graeme_Garden<br>Bananaman | broadcastedBy | "STV"
+Baymax | series | Big_Hero_6_(film)<br>Baymax | creator | Steven_T._Seagle
+Bibbo_Bibbowski | creator | Marv_Wolfman<br>Bibbo_Bibbowski | fullName | "Bo Bibbowski"
+Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey<br>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey
+William_Anders | birthPlace | British_Hong_Kong<br>William_Anders | was a crew member of | Apollo_8
+William_Anders | status | "Retired"<br>William_Anders | almaMater | "AFIT, M.S. 1962"
+108_St_Georges_Terrace | floorCount | 50<br>108_St_Georges_Terrace | completionDate | 1988
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International<br>AC_Hotel_Bella_Sky_Copenhagen | location | Copenhagen
+Dublin | isPartOf | Republic_of_Ireland<br>3Arena | location | Dublin
+Elliot_See | almaMater | University_of_Texas_at_Austin<br>Elliot_See | birthPlace | Dallas<br>Elliot_See | nationality | United_States
+Elliot_See | almaMater | University_of_Texas_at_Austin<br>St._Louis | leaderName | Francis_G._Slay<br>Elliot_See | deathPlace | St._Louis
+Elliot_See | deathPlace | St._Louis<br>St._Louis | isPartOf | Kingdom_of_France<br>Elliot_See | deathDate | "1966-02-28"
+A_Severed_Wasp | language | English_language<br>English_language | spokenIn | Great_Britain<br>A_Severed_Wasp | country | United_States
+Above_the_Veil | numberOfPages | "248"<br>Above_the_Veil | author | Garth_Nix<br>Above_the_Veil | mediaType | Hardcover
+Aenir | author | Garth_Nix<br>Aenir | language | English_language<br>Aenir | followedBy | Above_the_Veil
+A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"<br>A.C._Lumezzane | league | "Lega Pro/A"<br>A.C._Lumezzane | numberOfMembers | 4150
+AFC_Ajax_(amateurs) | ground | Amsterdam<br>Amsterdam | leader | Eberhard_van_der_Laan<br>Amsterdam | part | Amsterdam-Centrum
+AZ_Alkmaar | manager | John_van_den_Brom<br>John_van_den_Brom | club | Jong_Ajax<br>John_van_den_Brom | club | İstanbulspor_A.Ş.
+Alan_B._Miller_Hall | buildingStartDate | "30 March 2007"<br>Mason_School_of_Business | country | United_States<br>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Asilomar_Conference_Grounds | architect | Julia_Morgan<br>Julia_Morgan | birthPlace | San_Francisco<br>Julia_Morgan | significantBuilding | Riverside_Art_Museum
+Asser_Levy_Public_Baths | location | New_York_City<br>Asser_Levy_Public_Baths | yearOfConstruction | 1904<br>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"
+Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)<br>Albuquerque,_New_Mexico | leaderTitle | New_Mexico_Senate<br>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)
+New_Jersey | capital | Trenton,_New_Jersey<br>New_Jersey | country | United_States<br>Atlantic_City,_New_Jersey | isPartOf | New_Jersey
+United_States | language | English_language<br>Angola,_Indiana | country | United_States<br>United_States | ethnicGroup | Asian_Americans
+Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York<br>Adirondack_Regional_Airport | runwayLength | 2003.0<br>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York
+Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force<br>United_States_Air_Force | battles | Invasion_of_Grenada<br>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle
+Andrews_County_Airport | location | Texas<br>Texas | capital | Austin,_Texas<br>Texas | language | English_language
+Adams_County,_Pennsylvania | has to its southeast | Carroll_County,_Maryland<br>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania<br>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania
+Azerbaijan | capital | Baku<br>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan<br>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"
+Azerbaijan | leader | Artur_Rasizade<br>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan<br>Azerbaijan | legislature | National_Assembly_(Azerbaijan)
+Barny_Cakes | country | France<br>France | leaderName | Claude_Bartolone<br>France | leaderName | Manuel_Valls
+Binignit | ingredient | Sago<br>Binignit | course | Dessert<br>Dessert | dishVariation | Cookie
+Tomato | family | Solanaceae<br>Amatriciana_sauce | ingredient | Tomato<br>Tomato | order | Solanales
+Kerala | leaderName | Kochi<br>AWH_Engineering_College | state | Kerala<br>Kerala | has to its northwest | Mahé,_India
+School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association<br>European_University_Association | headquarters | Brussels<br>School of Business and Social Sciences at the Aarhus University | established | 1928
+School of Business and Social Sciences at the Aarhus University | city | Aarhus<br>School of Business and Social Sciences at the Aarhus University | country | Denmark<br>School of Business and Social Sciences at the Aarhus University | established | 1928
+Asterix_(comicsCharacter) | creator | René_Goscinny<br>René_Goscinny | nationality | French_people<br>Asterix_(comicsCharacter) | creator | Albert_Uderzo
+Blockbuster_(comicsCharacter) | creator | Gardner_Fox<br>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"<br>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino
+Bolt_(comicsCharacter) | creator | Ernie_Colón<br>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"<br>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)
+Adare_Manor | location | Adare<br>County_Limerick | isPartOf | Munster<br>Adare_Manor | location | County_Limerick<br>County_Limerick | governmentType | Limerick_City_and_County_Council
+Akita_Museum_of_Art | country | Japan<br>Akita_Museum_of_Art | location | Akita,_Akita<br>Akita,_Akita | isPartOf | Akita_Prefecture<br>Japan | ethnicGroup | Brazilians_in_Japan
+United_States | language | English_language<br>United_States | leaderTitle | President_of_the_United_States<br>United_States | leaderName | Joe_Biden<br>250_Delaware_Avenue | location | United_States
+Azerbaijan | capital | Baku<br>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan<br>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan<br>Azerbaijan | leaderName | Artur_Rasizade
+Monocacy_National_Battlefield | location | Frederick_County,_Maryland<br>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"<br>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield<br>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland
+Turkey | leaderName | Ahmet_Davutoğlu<br>Turkey | capital | Ankara<br>Atatürk_Monument_(İzmir) | material | "Bronze"<br>Atatürk_Monument_(İzmir) | location | Turkey
+Anderson,_Indiana | populationDensity | 523.9 (inhabitants per square kilometre)<br>Anderson,_Indiana | areaTotal | 107.43 (square kilometres)<br>Anderson,_Indiana | elevationAboveTheSeaLevel | 268.0<br>Anderson,_Indiana | isPartOf | "Adams, Fall Creek, Lafayette, Richland, Union"
+Angola,_Indiana | isPartOf | Pleasant_Township,_Steuben_County,_Indiana<br>Angola,_Indiana | country | United_States<br>Angola,_Indiana | isPartOf | Indiana<br>Angola,_Indiana | areaTotal | 16.55 (square kilometres)
+United_States | ethnicGroup | Asian_Americans<br>Albuquerque,_New_Mexico | leaderTitle | New_Mexico_Senate<br>New_Mexico_Senate | leader | John_Sánchez<br>Albuquerque,_New_Mexico | country | United_States
+AZ_Alkmaar | manager | John_van_den_Brom<br>John_van_den_Brom | club | Vitesse_Arnhem<br>John_van_den_Brom | club | AFC_Ajax<br>John_van_den_Brom | club | Netherlands_national_football_team
+Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C<br>Campeonato_Brasileiro_Série_C | country | Brazil<br>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca<br>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca
+Peter_Stöger | club | SK_Vorwärts_Steyr<br>Peter_Stöger | club | FC_Admira_Wacker_Mödling<br>1._FC_Köln | manager | Peter_Stöger<br>Peter_Stöger | club | FK_Austria_Wien
+Atlantic_City_International_Airport | owner | South_Jersey_Transportation_Authority<br>South_Jersey_Transportation_Authority | leaderName | Stephen_Dilts<br>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey<br>Egg_Harbor_Township,_New_Jersey | country | United_States
+Iraq | language | Kurdish_languages<br>Iraq | leaderName | Fuad_Masum<br>Al-Taqaddum_Air_Base | cityServed | Fallujah<br>Fallujah | country | Iraq
+Iraq | leaderName | Haider_al-Abadi<br>Iraq | language | Kurdish_languages<br>Al-Taqaddum_Air_Base | cityServed | Fallujah<br>Fallujah | country | Iraq
+Bananaman | starring | Jill_Shilling<br>Bananaman | creator | Steve_Bright<br>Bananaman | firstAired | "1983-10-03"<br>Bananaman | broadcastedBy | "STV"
+Big_Hero_6_(film) | starring | Ryan_Potter<br>Duncan_Rouleau | nationality | Americans<br>Baymax | creator | Duncan_Rouleau<br>Baymax | series | Big_Hero_6_(film)
+Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)<br>Ernie_Colón | nationality | Puerto_Ricans<br>Bolt_(comicsCharacter) | creator | Ernie_Colón<br>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"
+A_Fortress_of_Grey_Ice | mediaType | Hardcover<br>A_Fortress_of_Grey_Ice | OCLC_number | 51969173<br>A_Fortress_of_Grey_Ice | author | J._V._Jones<br>A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"
+A_Loyal_Character_Dancer | author | Qiu_Xiaolong<br>A_Loyal_Character_Dancer | OCLC_number | 49805501<br>A_Loyal_Character_Dancer | ISBN_number | "1-56947-301-3"<br>A_Loyal_Character_Dancer | mediaType | Hardcover
+Alcatraz_Versus_the_Evil_Librarians | language | English_language<br>English_language | spokenIn | Great_Britain<br>Alcatraz_Versus_the_Evil_Librarians | country | United_States<br>United_States | ethnicGroup | African_Americans
+Alan_Bean | nationality | United_States<br>Alan_Bean | birthPlace | Wheeler,_Texas<br>Alan_Bean | timeInSpace | "100305.0"(minutes)<br>Alan_Bean | was selected by NASA | 1963
+Buzz_Aldrin | was a crew member of | Apollo_11<br>Buzz_Aldrin | birthName | "Edwin Eugene Aldrin Jr."<br>Buzz_Aldrin | awards | 20<br>Apollo_11 | operator | NASA
+Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal<br>Alan_Shepard | deathPlace | California<br>Alan_Shepard | birthPlace | New_Hampshire<br>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)
+AWH_Engineering_College | country | India<br>AWH_Engineering_College | established | 2001<br>AWH_Engineering_College | city | "Kuttikkattoor"<br>India | river | Ganges
+Acharya_Institute_of_Technology | was given the 'Technical Campus' status by | All_India_Council_for_Technical_Education<br>All_India_Council_for_Technical_Education | location | Mumbai<br>Acharya_Institute_of_Technology | sportsOffered | Tennis<br>Tennis | sportsGoverningBody | International_Tennis_Federation
+Kerala | leaderName | Kochi<br>AWH_Engineering_College | academicStaffSize | 250<br>AWH_Engineering_College | state | Kerala<br>AWH_Engineering_College | city | "Kuttikkattoor"
+Bandeja_paisa | mainIngredients | "red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon"<br>Bandeja_paisa | region | Paisa_Region<br>Bandeja_paisa | country | Colombian_cuisine<br>Bandeja_paisa | ingredient | Hogao
+Beef_kway_teow | region | Singapore<br>Beef_kway_teow | country | "Singapore and Indonesia"<br>Singapore | language | Standard_Chinese<br>Singapore | leaderName | Halimah_Yacob
+Philippines | language | Philippine_English<br>Binignit | course | Dessert<br>Dessert | dishVariation | Sandesh_(confectionery)<br>Binignit | country | Philippines
+English_language | spokenIn | Great_Britain<br>A_Loyal_Character_Dancer | publisher | Soho_Press<br>A_Loyal_Character_Dancer | country | United_States<br>United_States | ethnicGroup | Native_Americans_in_the_United_States<br>United_States | language | English_language
+English_language | spokenIn | Great_Britain<br>United_States | language | English_language<br>United_States | capital | Washington,_D.C.<br>A_Severed_Wasp | country | United_States<br>United_States | ethnicGroup | Native_Americans_in_the_United_States
+United_States | leaderName | Barack_Obama<br>United_States | demonym | Americans<br>United_States | capital | Washington,_D.C.<br>1634:_The_Ram_Rebellion | country | United_States<br>United_States | ethnicGroup | African_Americans
+Amarillo,_Texas | isPartOf | Potter_County,_Texas<br>Potter_County,_Texas | state | Texas<br>Texas | country | United_States<br>United_States | capital | Washington,_D.C.<br>United_States | language | English_language
+Auburn,_Washington | isPartOf | Pierce_County,_Washington<br>Auburn,_Washington | country | United_States<br>Auburn,_Washington | isPartOf | King_County,_Washington<br>Auburn,_Washington | populationDensity | 914.8 (inhabitants per square kilometre)<br>Auburn,_Washington | areaTotal | 77.41 (square kilometres)
+United_States | language | English_language<br>Angola,_Indiana | isPartOf | Steuben_County,_Indiana<br>United_States | demonym | Americans<br>Angola,_Indiana | country | United_States<br>United_States | ethnicGroup | Asian_Americans
+Azerbaijan | capital | Baku<br>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan<br>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"<br>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan<br>Azerbaijan | leaderName | Artur_Rasizade
+Azerbaijan | capital | Baku<br>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"<br>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan<br>Azerbaijan | leaderName | Artur_Rasizade<br>Azerbaijan | legislature | National_Assembly_(Azerbaijan)
+Turkey | leaderTitle | President_of_Turkey<br>Turkey | leader | Ahmet_Davutoğlu<br>Turkey | capital | Ankara<br>Turkey | largestCity | Istanbul<br>Atatürk_Monument_(İzmir) | location | Turkey
+AWH_Engineering_College | established | 2001<br>AWH_Engineering_College | academicStaffSize | 250<br>AWH_Engineering_College | state | Kerala<br>Kerala | has to its northwest | Mahé,_India<br>AWH_Engineering_College | city | "Kuttikkattoor"
+India | largestCity | Mumbai<br>AWH_Engineering_College | country | India<br>Kerala | leaderName | Kochi<br>AWH_Engineering_College | state | Kerala<br>India | river | Ganges
+School of Business and Social Sciences at the Aarhus University | city | Aarhus<br>European_University_Association | headquarters | Brussels<br>Aarhus | has to its northeast | Mols<br>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association<br>Aarhus | governmentType | Magistrate
+Duncan_Rouleau | nationality | Americans<br>Baymax | creator | Duncan_Rouleau<br>Big_Hero_6_(film) | starring | Alan_Tudyk<br>Baymax | creator | Steven_T._Seagle<br>Baymax | series | Big_Hero_6_(film)
+A.C._Lumezzane | manager | Michele_Marcolini<br>A.C._Lumezzane | ground | Italy<br>Italy | leader | Pietro_Grasso<br>Michele_Marcolini | club | F.C._Bari_1908<br>Michele_Marcolini | club | Vicenza_Calcio
+AEK_Athens_F.C. | manager | Gus_Poyet<br>Gus_Poyet | club | Real_Zaragoza<br>Olympic_Stadium_(Athens) | location | Marousi<br>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)<br>Gus_Poyet | club | Chelsea_F.C.
+Italy | officialLanguage | Italian_language<br>Italy | demonym | Italians<br>Italy | capital | Rome<br>Italy | leader | Sergio_Mattarella<br>A.S._Gubbio_1910 | ground | Italy
+Bhajji | country | India<br>Bhajji | region | Karnataka<br>Bhajji | mainIngredients | "Gram flour, vegetables"<br>Bhajji | alternativeName | "Bhaji, bajji"<br>Bhajji | ingredient | Gram_flour
+Philippines | language | Arabic<br>Philippines | ethnicGroup | Zamboangans<br>Philippines | language | Philippine_Spanish<br>Batchoy | country | Philippines<br>Philippines | ethnicGroup | Chinese_Filipino
+Spain | leaderName | Felipe_VI_of_Spain<br>Ajoblanco | region | Andalusia<br>Andalusia | leaderName | Susana_Díaz<br>Ajoblanco | country | Spain<br>Spain | demonym | Spaniards
+Alan_Shepard | was a crew member of | Apollo_14<br>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal<br>Alan_Shepard | birthPlace | New_Hampshire<br>Apollo_14 | operator | NASA<br>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)
+Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey<br>Buzz_Aldrin | was a crew member of | Apollo_11<br>Buzz_Aldrin | nationality | United_States<br>Buzz_Aldrin | occupation | Fighter_pilot<br>Apollo_11 | operator | NASA
+Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal<br>Alan_Shepard | nationality | United_States<br>Alan_Shepard | deathPlace | California<br>Alan_Shepard | birthPlace | New_Hampshire<br>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)
+Al_Asad_Airbase | operatingOrganisation | United_States_Air_Force<br>United_States_Air_Force | battles | Invasion_of_Grenada<br>United_States_Air_Force | attackAircraft | Lockheed_AC-130<br>United_States_Air_Force | transportAircraft | Lockheed_C-130_Hercules<br>United_States_Air_Force | battles | Operation_Enduring_Freedom
+Allama_Iqbal_International_Airport | location | Pakistan<br>Allama_Iqbal_International_Airport | runwayLength | 3310.0<br>Allama_Iqbal_International_Airport | operatingOrganisation | Pakistan_Civil_Aviation_Authority<br>Allama_Iqbal_International_Airport | cityServed | Lahore<br>Allama_Iqbal_International_Airport | runwayName | "18L/36R"
+Athens_International_Airport | cityServed | Athens<br>Athens | country | Greece<br>Greece | leaderName | Alexis_Tsipras<br>Greece | language | Greek_language<br>Greece | leaderName | Prokopis_Pavlopoulos
+200_Public_Square | location | Cleveland<br>200_Public_Square | completionDate | 1985<br>Cleveland | isPartOf | Cuyahoga_County,_Ohio<br>Cleveland | isPartOf | Ohio<br>Cleveland | country | United_States
+AC_Hotel_Bella_Sky_Copenhagen | location | Denmark<br>Marriott_International | foundationPlace | Washington,_D.C.<br>Denmark | leaderName | Lars_Løkke_Rasmussen<br>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International<br>Denmark | language | Greenlandic_language
+Akita_Museum_of_Art | country | Japan<br>Akita_Museum_of_Art | floorCount | 3<br>Akita_Museum_of_Art | location | Akita,_Akita<br>Akita_Museum_of_Art | location | Akita_Prefecture<br>Akita_Museum_of_Art | address | "1-4-2 Nakadori"
+Airey_Neave | birthPlace | "Knightsbridge, London"
+Alvah_Sabin | party | Whig_Party_(United_States)
+Juan_Perón | party | Labour_Party_(Argentina)
+Acura_TLX | layout | AWD_(vehicle)
+Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+Abel_Hernández | club | Uruguay_national_football_team
+Al-Zawra'a_SC | manager | Basim_Qasim
+Alessio_Romagnoli | youthclub | A.S._Roma
+Abradab | background | "solo_singer"
+Aleksandra_Kovač | background | "solo_singer"
+United_Kingdom | demonym | British_people
+(29075)_1950_DA | discoverer | Carl_A._Wirtanen
+1001_Gaussia | formerName | "1923 OAA907 XC"
+101_Helena | apoapsis | 441092000.0 (kilometres)
+Aaron_S._Daggett | battles | Battle_of_Gettysburg<br>Aaron_S._Daggett | award | Purple_Heart
+Abdulsalami_Abubakar | birthPlace | Minna<br>Abdulsalami_Abubakar | almaMater | Technical_Institute,_Kaduna
+Airey_Neave | battles | Battle_of_France<br>Battle_of_France | commander | Hugo_Sperrle
+Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC<br>Al_Kharaitiyat_SC | manager | Amar_Osim
+Aleksander_Barkov,_Jr. | club | Florida_Panthers<br>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"
+FC_Dinamo_Batumi | manager | Levan_Khomeriki<br>Aleksandre_Guruli | club | FC_Dinamo_Batumi
+Ace_Wilder | recordLabel | Warner_Music_Group<br>Ace_Wilder | background | "solo_singer"
+Alfredo_Zitarrosa | background | "solo_singer"<br>Alfredo_Zitarrosa | genre | Milonga_(music)
+Anders_Osborne | genre | Rhythm_and_blues<br>Anders_Osborne | recordLabel | Rabadash_Records
+101_Helena | discoverer | James_Craig_Watson<br>James_Craig_Watson | deathCause | Peritonitis
+103_Hera | discoverer | James_Craig_Watson<br>James_Craig_Watson | deathCause | Peritonitis
+110_Lydia | epoch | 2006-12-31<br>110_Lydia | orbitalPeriod | 142603000.0
+AIDA_Cruises | location | Rostock<br>AIDAluna | operator | AIDA_Cruises
+Ariane_5 | manufacturer | Airbus_Defence_and_Space<br>Airbus_Defence_and_Space | parentCompany | Airbus_Group
+Atlas_II | finalFlight | 1998-03-16<br>Atlas_II | diameter | 3.04 m
+Adam_Koc | battles | Polish–Soviet_War<br>Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War<br>Polish–Soviet_War | commander | Leon_Trotsky
+Agnes_Kant | office (workedAt, workedAs) | "Member of the House of Representatives"<br>Agnes_Kant | birthPlace | West_Germany<br>Agnes_Kant | almaMater | Radboud_University_Nijmegen
+Albert_Jennings_Fountain | deathPlace | New_Mexico_Territory<br>Albert_Jennings_Fountain | birthPlace | New_York_City<br>Albert_Jennings_Fountain | birthPlace | Staten_Island
+107_Camilla | discoverer | N._R._Pogson<br>N._R._Pogson | birthPlace | Nottingham<br>N._R._Pogson | nationality | England
+109_Felicitas | epoch | 2006-12-31<br>109_Felicitas | mass | 7.5 (kilograms)<br>109_Felicitas | orbitalPeriod | 139705000.0
+110_Lydia | epoch | 2006-12-31<br>110_Lydia | mass | 6.7 (kilograms)<br>110_Lydia | periapsis | 377016000000.0
+Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Bebi_Dol<br>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | K2_(Kovač_sisters_duo)<br>Aleksandra_Kovač | genre | Pop_music
+Aleksandra_Kovač | genre | Rhythm_and_blues<br>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | K2_(Kovač_sisters_duo)<br>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kristina_Kovač
+Alex_Day | genre | Synthpop<br>Synthpop | stylisticOrigin | Pop_music<br>Synthpop | stylisticOrigin | Disco
+Alfa_Romeo_164 | assembly | Italy<br>Italy | capital | Rome<br>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma
+Alfa_Romeo_164 | assembly | Italy<br>Italy | capital | Rome<br>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema
+Caterpillar_Inc. | location | Illinois<br>AIDAluna | owner | AIDA_Cruises<br>AIDAluna | powerType | Caterpillar_Inc.
+Aaron_Hunt | club | VfL_Wolfsburg<br>Aaron_Hunt | youthclub | Goslarer_SC_08<br>Aaron_Hunt | club | SV_Werder_Bremen
+Akeem_Ayers | formerTeam | St._Louis_Rams<br>Akeem_Ayers | draftRound | "2"<br>Akeem_Ayers | draftPick | "39"
+Alan_Martin_(footballer) | club | Motherwell_F.C.<br>Alan_Martin_(footballer) | club | Accrington_Stanley_F.C.<br>Accrington_Stanley_F.C. | ground | Accrington
+Al_Kharaitiyat_SC | ground | Al_Khor<br>Alaa_Abdul-Zahra | club | Al-Zawra'a_SC<br>Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC<br>Al_Kharaitiyat_SC | manager | Amar_Osim
+Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC<br>Al_Kharaitiyat_SC | ground | Al_Khor<br>Alaa_Abdul-Zahra | club | Shabab_Al-Ordon_Club<br>Al_Kharaitiyat_SC | manager | Amar_Osim
+Aleksandr_Prudnikov | birthDate | 1989-02-24<br>Aleksandr_Prudnikov | height | 185.0 (centimetres)<br>Aleksandr_Prudnikov | club | FC_Kuban_Krasnodar<br>Aleksandr_Prudnikov | club | FC_Dynamo_Moscow
+107_Camilla | discoverer | N._R._Pogson<br>N._R._Pogson | deathPlace | Chennai<br>N._R._Pogson | birthPlace | Nottingham<br>107_Camilla | discovered | 2001-03-01
+1101_Clematis | epoch | 2006-12-31<br>1101_Clematis | formerName | "1928 SJ"<br>1101_Clematis | orbitalPeriod | 183309000.0<br>1101_Clematis | periapsis | 445895000000.0
+1101_Clematis | escapeVelocity | 0.02 (kilometrePerSeconds)<br>1101_Clematis | orbitalPeriod | 183309000.0<br>1101_Clematis | periapsis | 445895000000.0<br>1101_Clematis | epoch | 2006-12-31
+ALCO_RS-3 | builder | American_Locomotive_Company<br>ALCO_RS-3 | length | 17068.8 (millimetres)<br>ALCO_RS-3 | engine | V12_engine<br>ALCO_RS-3 | buildDate | "May 1950 - August 1956"
+Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office<br>Antares_(rocket) | finalFlight | 2014-10-28<br>Antares_(rocket) | maidenFlight | 2013-04-21<br>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0
+Costa_Crociere | location | Genoa<br>AIDAstella | operator | AIDA_Cruises<br>AIDAstella | builder | Meyer_Werft<br>AIDAstella | owner | Costa_Crociere
+Albennie_Jones | activeYearsEndYear | 1950<br>Albennie_Jones | genre | Rhythm_and_blues<br>Rhythm_and_blues | stylisticOrigin | Blues<br>Rhythm_and_blues | derivative | Disco
+Alex_Day | associatedBand/associatedMusicalArtist | Chameleon_Circuit_(band)<br>Alex_Day | genre | Electronic_music<br>Alex_Day | associatedBand/associatedMusicalArtist | Charlie_McDonnell<br>Alex_Day | activeYearsStartYear | 2006
+Asunción | isPartOf | Gran_Asunción<br>Agustín_Barboza | deathPlace | Asunción<br>Paraguay | leaderName | Juan_Afara<br>Agustín_Barboza | deathPlace | Paraguay
+Abdul_Taib_Mahmud | successor | Adenan_Satem<br>Adenan_Satem | birthPlace | Japanese_occupation_of_British_Borneo<br>Abdul_Taib_Mahmud | residence | Sarawak<br>Abdul_Taib_Mahmud | party | "Barisan Ra'ayat Jati Sarawak"
+Airey_Neave | battles | Battle_of_France<br>Airey_Neave | birthPlace | "Knightsbridge, London"<br>Airey_Neave | activeYearsStartDate | 1953-06-30<br>Airey_Neave | activeYearsEndDate | 1979-03-30
+Alfred_N._Phillips | party | Democratic_Party_(United_States)<br>Alfred_N._Phillips | successor | Albert_E._Austin<br>Alfred_N._Phillips | birthPlace | Connecticut<br>Alfred_N._Phillips | office (workedAt, workedAs) | "Member of the U.S. House of Representatives from Connecticut's 4th district"
+Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office<br>Antares_(rocket) | finalFlight | 2014-07-13<br>Antares_(rocket) | maidenFlight | 2014-10-28<br>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0<br>Antares_(rocket) | diameter | 3.9 (metres)
+Arianespace | locationCity | Courcouronnes<br>Guiana_Space_Centre | headquarter | French_Guiana<br>ELA-3 | site | Guiana_Space_Centre<br>Ariane_5 | launchSite | ELA-3<br>ELA-3 | operator | Arianespace
+Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman<br>Caterpillar_Inc. | foundationPlace | United_States<br>Caterpillar_Inc. | location | Peoria,_Illinois<br>AIDAluna | owner | AIDA_Cruises<br>AIDAluna | powerType | Caterpillar_Inc.
+Alessio_Romagnoli | club | A.C._Milan<br>A.C._Milan | league | Serie_A<br>A.C._Milan | manager | Siniša_Mihajlović<br>Alessio_Romagnoli | position | Defender_(football)<br>Alessio_Romagnoli | club | U.C._Sampdoria
+Central_Español | league | Uruguayan_Segunda_División<br>Abel_Hernández | youthclub | Central_Español<br>U.S._Città_di_Palermo | manager | Giuseppe_Iachini<br>Abel_Hernández | club | Uruguay_national_football_team<br>Abel_Hernández | club | U.S._Città_di_Palermo
+FC_Spartak_Moscow | chairman | Sergey_Rodionov<br>FC_Terek_Grozny | ground | Grozny<br>Aleksandr_Prudnikov | club | FC_Spartak_Moscow<br>Aleksandr_Prudnikov | club | FC_Terek_Grozny<br>FC_Terek_Grozny | manager | Rashid_Rakhimov
+101_Helena | discoverer | James_Craig_Watson<br>James_Craig_Watson | almaMater | University_of_Michigan<br>101_Helena | discovered | 1868-08-15<br>James_Craig_Watson | nationality | Canada<br>James_Craig_Watson | deathPlace | Madison,_Wisconsin
+1036_Ganymed | discoverer | Walter_Baade<br>Walter_Baade | deathPlace | Göttingen<br>Walter_Baade | birthPlace | German_Empire<br>Walter_Baade | almaMater | University_of_Göttingen<br>Walter_Baade | doctoralStudent | Allan_Sandage
+1101_Clematis | epoch | 2006-12-31<br>1101_Clematis | escapeVelocity | 0.02 (kilometrePerSeconds)<br>1101_Clematis | mass | 5.7 (kilograms)<br>1101_Clematis | orbitalPeriod | 183309000.0<br>1101_Clematis | apoapsis | 520906000.0 (kilometres)
+Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu<br>Abdul_Taib_Mahmud | region | Asajaya<br>Abdul_Taib_Mahmud | residence | Kuching<br>Abdul_Taib_Mahmud | birthPlace | Miri,_Malaysia<br>Abdul_Taib_Mahmud | birthDate | 1936-05-21
+Agnes_Kant | nationality | Netherlands<br>Netherlands | leaderName | Mark_Rutte<br>Agnes_Kant | office (workedAt, workedAs) | House_of_Representatives_(Netherlands)<br>House_of_Representatives_(Netherlands) | leaderName | Khadija_Arib<br>Agnes_Kant | residence | Doesburg
+Albert_B._White | spouse | Agnes_Ward_White<br>Albert_B._White | birthPlace | Cleveland<br>Albert_B._White | deathPlace | Parkersburg,_West_Virginia<br>Albert_B._White | successor | William_M._O._Dawson<br>William_M._O._Dawson | birthPlace | Bloomington,_Maryland
+Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Kaiser_Chiefs<br>Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Marry_Banilow<br>Andrew_White_(musician) | recordLabel | B-Unique_Records<br>Andrew_White_(musician) | recordLabel | Polydor_Records<br>Andrew_White_(musician) | activeYearsStartYear | 2003
+Rock_music | musicFusionGenre | Bhangra_(music)<br>Al_Anderson_(NRBQ band) | instrument | Guitar<br>Al_Anderson_(NRBQ band) | genre | Rock_music<br>Rock_music | stylisticOrigin | Country_music<br>Country_music | stylisticOrigin | Blues
+Twilight_(band) | genre | Black_metal<br>Aaron_Turner | associatedBand/associatedMusicalArtist | Twilight_(band)<br>Aaron_Turner | associatedBand/associatedMusicalArtist | Old_Man_Gloom<br>Aaron_Turner | instrument | Electric_guitar<br>Black_metal | musicFusionGenre | Death_metal

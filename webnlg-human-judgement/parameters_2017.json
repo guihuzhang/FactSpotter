@@ -1,0 +1,17 @@
+{
+  "model-base": "google/electra-small-discriminator",
+  "model-finetuned-name": "electra_webnlg_fix.5pred.25ent.25both.1drop0.9888319088319089.pt",
+  "model-finetuned-path": "classifier_predicate/predicate_sentence_cls/electra_webnlg_fix.5pred.25ent.25both.1drop0.9888319088319089.pt",
+  "teams-samples": "datasets/webnlg2017/teams-generations",
+  "human-annotations": "datasets/webnlg2017/human-annotations",
+  "human-categories": ["fluency", "grammar", "semantics"],
+  "metrics-path": "metrics_results/webnlg2017",
+  "triples": "datasets/webnlg2017/triples.txt",
+  "no-samples": 223,
+  "metrics": "blue,meteor,bart,bleurt,bert,infolm",
+  "num_references": 3,
+  "references-faith": "datasets/webnlg2017/triples_text.txt",
+  "references": "datasets/webnlg2017/reference",
+  "logging-path": "metrics_results/webnlg2017/logging.txt",
+  "bootstrapping": 1000
+}

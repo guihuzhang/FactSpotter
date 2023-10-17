@@ -1,0 +1,178 @@
+MotorSport_Vision | locationCity | Fawkham
+Abdul_Taib_Mahmud | residence | "Demak Jaya, Jalan Bako, Kuching, Sarawak"@en<br>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu
+Aaron_Turner | genre | Post-metal<br>Aaron_Turner | associatedMusicalArtist | Lotus_Eaters_(band)<br>Aaron_Turner | hometown | Massachusetts<br>Aaron_Turner | instrument | Electric_guitar<br>Aaron_Turner | activeYearsStartYear | "1995"^^xsd:gYear
+Nord_(Year_of_No_Light_album) | artist | Year_of_No_Light<br>Year_of_No_Light | associatedMusicalArtist | Monarch_(band)
+It's_Great_to_Be_Young_(1956_film) | starring | Cecil_Parker
+Mermaid_(Train_song) | subsequentWork | Imagine_(John_Lennon_song)<br>Imagine_(John_Lennon_song) | certification | FIMI<br>Mermaid_(Train_song) | producer | Espionage_(production_team)<br>Imagine_(John_Lennon_song) | musicalArtist | John_Lennon
+The_Fellowship_of_the_Ring | literaryGenre | Fantasy_(genre)
+Abraham_A._Ribicoff | spouse | Casey_Ribicoff<br>Abraham_A._Ribicoff | deathPlace | United_States<br>United_States | ethnicGroup | African_Americans
+University_of_Burgundy | staff | 2900<br>University_of_Burgundy | numberOfDoctoralStudents | 1299<br>University_of_Burgundy | campus | Dijon<br>University_of_Burgundy | numberOfStudents | 27400<br>University_of_Burgundy | numberOfPostgraduateStudents | 9400
+Nord_(Year_of_No_Light_album) | subsequentWork | Live_at_Roadburn_2008_(Year_of_No_Light_album)<br>Nord_(Year_of_No_Light_album) | producer | Year_of_No_Light<br>Nord_(Year_of_No_Light_album) | artist | Year_of_No_Light<br>Nord_(Year_of_No_Light_album) | recordLabel | Crucial_Blast
+FC_Terek_Grozny | ground | Grozny<br>Aleksandr_Prudnikov | currentclub | FC_Amkar_Perm<br>Aleksandr_Prudnikov | team | FC_Terek_Grozny<br>Aleksandr_Prudnikov | dateOfBirth | "1989-02-24"^^xsd:date<br>Aleksandr_Prudnikov | Person/height | "185.0"^^<http://dbpedia.org/datatype/centimetre>
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business<br>Alan_B._Miller_Hall | location | Williamsburg,_Virginia<br>Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Super_Capers | writer | Ray_Griggs_(director)<br>Ray_Griggs_(director) | birthYear | 1974-01-01<br>Super_Capers | starring | Michael_Rooker<br>Super_Capers | starring | Tom_Sizemore
+Nord_(Year_of_No_Light_album) | releaseDate | 2007-04-23<br>Nord_(Year_of_No_Light_album) | subsequentWork | Live_at_Roadburn_2008_(Year_of_No_Light_album)<br>Nord_(Year_of_No_Light_album) | genre | Sludge_metal<br>Nord_(Year_of_No_Light_album) | genre | Post-metal
+ALCO_RS-3 | builddate | "May 1950 &ndash; August 1956"@en<br>ALCO_RS-3 | cylindercount | 12<br>ALCO_RS-3 | MeanOfTransportation/length | "17068.8"^^<http://dbpedia.org/datatype/millimetre>
+Adam_West | birthYear | 1928-01-01
+Alan_B._Miller_Hall | address | "101 Ukrop Way"@en<br>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business<br>Alan_B._Miller_Hall | completionDate | "2009-06-01"^^xsd:date<br>Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Aaron_Turner | genre | Post-metal<br>Aaron_Turner | instrument | Singing<br>Aaron_Turner | associatedBand | Twilight_(band)<br>Aaron_Turner | activeYearsStartYear | "1995"^^xsd:gYear
+Darinka_Dentcheva | residence | New_Jersey<br>New_Jersey | areaWater | 3544040000.0<br>Darinka_Dentcheva | residence | United_States<br>Darinka_Dentcheva | citizenship | United_States<br>United_States | motto | "In God we trust"
+Israel | leader | Reuven_Rivlin
+Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca<br>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C<br>Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger<br>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca<br>Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"@en
+Mermaid_(Train_song) | genre | Pop_rock<br>Reggae | stylisticOrigin | Ska<br>Mermaid_(Train_song) | genre | Reggae<br>Pop_rock | stylisticOrigin | Rock_music
+Bootleg_Series_Volume_1:_The_Quine_Tapes | recordedIn | United_States<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | recordedIn | St._Louis,_Missouri<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | previousWork | Squeeze_(The_Velvet_Underground_album)<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | recordLabel | Polydor_Records<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | recordLabel | Universal_Music_Group<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | releaseDate | 2001-10-16<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | runtime | 230.05
+GMA_New_Media | industry | Mass_Media<br>GMA_New_Media | location | GMA_Network_Center
+Death_on_a_Factory_Farm | network | HBO<br>HBO | formerName | The Green Channel
+English_Without_Tears | editing | Alan_Jaggs<br>English_Without_Tears | producer | Anatole_de_Grunwald<br>English_Without_Tears | writer | Anatole_de_Grunwald
+Aaron_Turner | genre | Post-metal<br>Aaron_Turner | hometown | Massachusetts<br>Aaron_Turner | associatedBand | Twilight_(band)<br>Aaron_Turner | instrument | Electric_guitar
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca<br>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C<br>Agremiação_Sportiva_Arapiraquense | season | 2015<br>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube<br>Campeonato_Brasileiro_Série_C | country | Brazil<br>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca
+Super_Capers | distributor | Lionsgate<br>Super_Capers | starring | Justin_Whalin<br>Super_Capers | gross | 30955.0
+Ciudad_Ayala | populationDensity | 1603.87<br>Ciudad_Ayala | leaderName | Juan_Nolasco
+Lady_Anne_Monson | nationality | Kingdom_of_England<br>India | areaTotal | 3287591.04790256<br>Lady_Anne_Monson | residence | India<br>India | leaderTitle | Chief Justice
+Mermaid_(Train_song) | subsequentWork | Imagine_(John_Lennon_song)
+Nurhan_Atasoy | birthDate | 1934-01-01
+Nie_Haisheng | mission | Shenzhou_10<br>Nie_Haisheng | mission | Shenzhou_6<br>Nie_Haisheng | birthPlace | Zaoyang
+11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania<br>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland<br>11th_Mississippi_Infantry_Monument | category | Contributing_property
+Expect_a_Miracle | genre | Instrumental_music<br>Expect_a_Miracle | genre | Easy_listening
+Nurhan_Atasoy | residence | Istanbul<br>Istanbul | timeZone | Eastern_European_Time<br>Istanbul | timeZone | Eastern_European_Summer_Time<br>Nurhan_Atasoy | residence | Turkey
+Bootleg_Series_Volume_1:_The_Quine_Tapes | recordLabel | Polydor_Records<br>Universal_Music_Group | keyPerson | Lucian_Grainge<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | recordLabel | Universal_Music_Group
+Mermaid_(Train_song) | genre | Pop_rock<br>Mermaid_(Train_song) | releaseDate | 2012-12-27<br>Mermaid_(Train_song) | previousWork | This'll_Be_My_Year<br>Mermaid_(Train_song) | writer | Espen_Lind<br>Mermaid_(Train_song) | runtime | 196.0<br>Mermaid_(Train_song) | genre | Reggae
+Mermaid_(Train_song) | recordLabel | Sony_Music_Entertainment<br>Mermaid_(Train_song) | subsequentWork | Imagine_(John_Lennon_song)<br>Imagine_(John_Lennon_song) | subsequentWork | Happy_Xmas_(War_Is_Over)
+Mexico | currency | Mexican_peso<br>Bionico | course | Dessert<br>Dessert | hasVariant | Cookie<br>Bionico | country | Mexico
+Death_on_a_Factory_Farm | composer | Jamie_Lawrence<br>Death_on_a_Factory_Farm | runtime | 4980.0<br>Death_on_a_Factory_Farm | director | Sarah_Teale
+Olga_Bondareva | birthDate | 1937-01-01<br>Olga_Bondareva | almaMater | Leningrad_State_University
+Nie_Haisheng | birthPlace | Hubei<br>Nie_Haisheng | nationality | People's_Republic_of_China<br>Nie_Haisheng | birthPlace | Zaoyang
+Piotr_Hallmann | height | 175.26<br>Piotr_Hallmann | weight | 70.308
+La_Crosse,_Wisconsin | isPartOf | La_Crosse_County,_Wisconsin
+Expect_a_Miracle | producer | Brian_Kelly_(composer_&_pianist)<br>Expect_a_Miracle | genre | Instrumental_music
+Andrew_Rayel | genre | Trance_music<br>Andrew_Rayel | associatedMusicalArtist | Armin_van_Buuren
+Aleksandr_Prudnikov | team | FC_Amkar_Perm<br>Aleksandr_Prudnikov | dateOfBirth | "1989-02-24"^^xsd:date<br>Aleksandr_Prudnikov | youthclubs | FC_Spartak_Moscow<br>Aleksandr_Prudnikov | currentclub | FC_Amkar_Perm
+Detroit | isPartOf | Michigan
+Abraham_A._Ribicoff | spouse | Casey_Ribicoff<br>Abraham_A._Ribicoff | successor | John_N._Dempsey<br>Abraham_A._Ribicoff | birthPlace | United_States
+Mermaid_(Train_song) | musicalBand | Train_(band)
+Expect_a_Miracle | genre | Instrumental_music
+Liselotte_Grschebina | birthPlace | German_Empire<br>German_Empire | currency | German_Papiermark<br>Liselotte_Grschebina | birthPlace | Karlsruhe<br>Karlsruhe | elevation | 115.0
+Brandon_Carter | field | General_relativity<br>Brandon_Carter | knownFor | Carter_constant
+Brandon_Carter | field | General_relativity<br>Brandon_Carter | knownFor | Carter_constant<br>Brandon_Carter | knownFor | No-hair_theorem<br>Brandon_Carter | doctoralAdvisor | Dennis_William_Sciama<br>Brandon_Carter | birthDate | 1942-01-01
+Bootleg_Series_Volume_1:_The_Quine_Tapes | genre | Rock_music<br>Rock_music | musicSubgenre | Proto-punk
+Piotr_Hallmann | weight | 70.308<br>Piotr_Hallmann | birthDate | 1987-08-25
+Ciudad_Ayala | populationMetro | 1777539
+Bootleg_Series_Volume_1:_The_Quine_Tapes | producer | The_Velvet_Underground<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | genre | Rock_music<br>The_Velvet_Underground | genre | Proto-punk
+The_Fellowship_of_the_Ring | publisher | George_Allen_&_Unwin<br>The_Fellowship_of_the_Ring | literaryGenre | Fantasy_(genre)<br>The_Fellowship_of_the_Ring | subsequentWork | The_Two_Towers<br>The_Fellowship_of_the_Ring | releaseDate | 1954-07-29<br>The_Fellowship_of_the_Ring | previousWork | The_Hobbit
+11th_Mississippi_Infantry_Monument | established | 2000<br>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania<br>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en<br>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania<br>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland<br>11th_Mississippi_Infantry_Monument | category | Contributing_property<br>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania
+Turn_Me_On_(album) | runtime | 2106.0<br>Turn_Me_On_(album) | previousWork | Let_It_Breed<br>Let_It_Breed | previousWork | Love_American_Style_(album)
+Turn_Me_On_(album) | artist | The_Honeymoon_Killers_(American_band)
+11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania<br>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania<br>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland<br>11th_Mississippi_Infantry_Monument | category | Contributing_property<br>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania<br>11th_Mississippi_Infantry_Monument | country | "United States"@en
+Imagine_(John_Lennon_song) | musicalArtist | John_Lennon
+Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en<br>All_India_Council_for_Technical_Education | location | Mumbai<br>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University<br>Acharya_Institute_of_Technology | country | "India"@en<br>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education
+Mexico | currency | Mexican_peso<br>Bionico | course | Dessert<br>Dessert | hasVariant | Sandesh_(confectionery)<br>Bionico | country | Mexico
+BBC | locationCity | Broadcasting_House<br>Bananaman | starring | Bill_Oddie<br>Bananaman | creator | Steve_Bright<br>Bananaman | network | BBC<br>Bill_Oddie | birthPlace | Lancashire
+Nord_(Year_of_No_Light_album) | genre | Sludge_metal<br>Sludge_metal | musicSubgenre | Southern_sludge
+Lady_Anne_Monson | birthPlace | Darlington<br>Lady_Anne_Monson | birthDate | 1726-01-01<br>Lady_Anne_Monson | deathDate | 1776-02-18<br>Lady_Anne_Monson | birthPlace | Kingdom_of_England<br>Lady_Anne_Monson | nationality | Kingdom_of_England<br>Lady_Anne_Monson | residence | India
+Pontiac_Rageous | productionStartYear | 1997-01-01<br>Pontiac_Rageous | assembly | Michigan<br>Pontiac_Rageous | assembly | Detroit<br>Pontiac_Rageous | productionEndYear | 1997-01-01<br>Pontiac_Rageous | bodyStyle | Coupe<br>Pontiac_Rageous | manufacturer | Pontiac
+The_Honeymoon_Killers_(American_band) | associatedBand | Pussy_Galore_(band)<br>Turn_Me_On_(album) | producer | The_Honeymoon_Killers_(American_band)
+Mexico | currency | Mexican_peso<br>Mexico | demonym | Mexicans<br>Bionico | course | Dessert<br>Bionico | region | Guadalajara<br>Dessert | hasVariant | Cookie<br>Bionico | country | Mexico
+Turn_Me_On_(album) | genre | Punk_blues<br>Turn_Me_On_(album) | genre | Noise_rock
+Piotr_Hallmann | height | 175.26<br>Piotr_Hallmann | birthPlace | Gdynia<br>Piotr_Hallmann | birthDate | 1987-08-25
+Israel | longName | State of Israel
+Pontiac_Rageous | productionStartYear | 1997-01-01<br>Pontiac_Rageous | productionEndYear | 1997-01-01<br>Pontiac_Rageous | bodyStyle | Coupe<br>Pontiac_Rageous | manufacturer | Pontiac
+English_Without_Tears | musicComposer | Nicholas_Brodszky<br>English_Without_Tears | director | Harold_French
+Olga_Bondareva | birthPlace | Leningrad,_USSR<br>Olga_Bondareva | deathPlace | Saint_Petersburg<br>Olga_Bondareva | deathDate | 1991-12-09<br>Olga_Bondareva | field | Economics<br>Olga_Bondareva | field | Mathematics
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern<br>Alan_B._Miller_Hall | address | "101 Ukrop Way"@en<br>Alan_B._Miller_Hall | startDate | "2007-03-30"^^xsd:date<br>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business<br>Alan_B._Miller_Hall | location | Virginia<br>Mason_School_of_Business | country | United_States<br>Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Turn_Me_On_(album) | producer | The_Honeymoon_Killers_(American_band)
+1634:_The_Bavarian_Crisis | numberOfPages | "448"^^xsd:positiveInteger<br>1634:_The_Bavarian_Crisis | author | Eric_Flint
+Hypermarcas | netIncome | 1.086E8<br>Hypermarcas | product | Healthcare<br>Hypermarcas | product | Cosmetics<br>Hypermarcas | numberOfEmployees | 10252<br>Hypermarcas | revenue | 1.8E9
+Ciudad_Ayala | populationMetro | 1777539<br>Ciudad_Ayala | leaderTitle | City Manager<br>Ciudad_Ayala | type | City<br>Ciudad_Ayala | populationDensity | 1604.0
+Reggae | stylisticOrigin | Rhythm_and_Blues
+GMA_New_Media | parentCompany | GMA_Network_(company)
+Lady_Anne_Monson | birthPlace | Kingdom_of_England<br>Kingdom_of_England | capital | Winchester
+Bootleg_Series_Volume_1:_The_Quine_Tapes | releaseDate | 2001-10-16<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | runtime | 230.05
+Bedford_Aerodrome | runwayLength | 1095.0<br>Bedford_Aerodrome | location | Thurleigh
+Hypermarcas | location | Brazil<br>Hypermarcas | product | Drugs<br>Hypermarcas | foundingYear | 2001-01-01
+It's_Great_to_Be_Young_(1956_film) | musicComposer | Louis_Levy<br>Louis_Levy | birthDate | 1894-11-20
+Brandon_Carter | knownFor | Penrose_diagram<br>Brandon_Carter | birthDate | 1942-01-01<br>Brandon_Carter | almaMater | University_of_Cambridge
+Noise_rock | derivative | Post-hardcore
+Bedford_Aerodrome | operator | MotorSport_Vision<br>MotorSport_Vision | foundedBy | Jonathan_Palmer<br>MotorSport_Vision | foundingYear | 2004-01-01<br>Bedford_Aerodrome | location | Thurleigh
+Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca<br>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C<br>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube<br>Campeonato_Brasileiro_Série_C | country | Brazil<br>Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger<br>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca<br>Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"@en
+Death_on_a_Factory_Farm | director | Tom_Simon<br>Death_on_a_Factory_Farm | producer | Tom_Simon<br>Death_on_a_Factory_Farm | network | HBO<br>Death_on_a_Factory_Farm | editor | Geof_Bartz<br>Death_on_a_Factory_Farm | composer | Jamie_Lawrence<br>Death_on_a_Factory_Farm | producer | Sarah_Teale
+Lady_Anne_Monson | residence | India<br>India | leader | Pranab_Mukherjee<br>Lady_Anne_Monson | nationality | Kingdom_of_England<br>India | areaTotal | 3287590000000.0
+Bootleg_Series_Volume_1:_The_Quine_Tapes | artist | The_Velvet_Underground<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | genre | Rock_music<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | previousWork | Squeeze_(The_Velvet_Underground_album)<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | recordLabel | Polydor_Records<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | recordLabel | Universal_Music_Group<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | releaseDate | 2001-10-16
+Train_(band) | recordLabel | Warner_Music_Group
+Brandon_Carter | field | General_relativity<br>Brandon_Carter | knownFor | Carter_constant<br>Brandon_Carter | knownFor | No-hair_theorem
+FC_Terek_Grozny | ground | Grozny<br>Aleksandr_Prudnikov | currentclub | FC_Amkar_Perm<br>Aleksandr_Prudnikov | team | FC_Terek_Grozny<br>FC_Terek_Grozny | manager | Rashid_Rakhimov<br>Aleksandr_Prudnikov | youthclubs | FC_Spartak_Moscow
+Nurhan_Atasoy | birthDate | 1934-01-01<br>Nurhan_Atasoy | birthPlace | Turkey
+Nurhan_Atasoy | birthPlace | Reşadiye
+Al_Asad_Airbase | operator | United_States_Air_Force<br>Al_Asad_Airbase | runwayLength | "3992.88"^^xsd:double
+Mermaid_(Train_song) | musicalBand | Train_(band)<br>Mermaid_(Train_song) | genre | Reggae<br>Train_(band) | genre | Pop_rock
+1147_Stavropolis | apoapsis | 418476000000.0<br>1147_Stavropolis | orbitalPeriod | 1249.6<br>1147_Stavropolis | discoverer | Grigory_Neujmin
+Super_Capers | distributor | Lionsgate<br>Super_Capers | director | Ray_Griggs_(director)<br>Super_Capers | runtime | 5880.0<br>Super_Capers | distributor | Roadside_Attractions
+University_of_Burgundy | city | Dijon<br>Dijon | postalCode | 21000<br>University_of_Burgundy | numberOfUndergraduateStudents | 16800<br>University_of_Burgundy | staff | 2900
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business<br>Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+The_Fellowship_of_the_Ring | publisher | George_Allen_&_Unwin
+University_of_Burgundy | country | France<br>France | longName | French Republic<br>University_of_Burgundy | city | Dijon<br>France | leader | Claude_Bartolone
+Lionsgate | service | Digital_distribution
+English_Without_Tears | runtime | 89.0
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business<br>Alan_B._Miller_Hall | completionDate | "2009-06-01"^^xsd:date
+Darlington | gridReference | NZ289147
+Turn_Me_On_(album) | genre | Punk_blues<br>Punk_blues | stylisticOrigin | Garage_rock
+English_Without_Tears | musicComposer | Nicholas_Brodszky<br>English_Without_Tears | editing | Alan_Jaggs<br>English_Without_Tears | runtime | 89.0
+Nicholas_Brodszky | background | non_performing_personnel
+Abraham_A._Ribicoff | spouse | "Ruth Ribicoff"@en<br>Abraham_A._Ribicoff | birthPlace | United_States<br>Abraham_A._Ribicoff | office | "United States Secretary of Health, Education, and Welfare"<br>United_States | ethnicGroup | African_Americans
+Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca<br>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C<br>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube<br>Campeonato_Brasileiro_Série_C | country | Brazil<br>Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger<br>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca<br>Agremiação_Sportiva_Arapiraquense | chrtitle | "President"@en
+Chinabank | service | Banking<br>Chinabank | numberOfLocations | 505<br>Chinabank | foundingDate | 1920-08-16<br>Chinabank | netIncome | 1.51E10
+BBC | locationCity | Broadcasting_House<br>Bananaman | starring | Bill_Oddie<br>Bananaman | creator | Steve_Bright<br>Bill_Oddie | birthPlace | Rochdale<br>Bananaman | network | BBC
+University_of_Burgundy | staff | 2900<br>University_of_Burgundy | numberOfPostgraduateStudents | 9400
+1147_Stavropolis | periapsis | 2.608545551289435E8
+Bootleg_Series_Volume_1:_The_Quine_Tapes | recordedIn | United_States
+Acharya_Institute_of_Technology | city | Bangalore<br>Acharya_Institute_of_Technology | state | Karnataka
+Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en<br>All_India_Council_for_Technical_Education | location | Mumbai<br>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en<br>Acharya_Institute_of_Technology | city | Bangalore<br>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education
+Nurhan_Atasoy | birthDate | 1934-01-01<br>Nurhan_Atasoy | residence | Istanbul<br>Nurhan_Atasoy | citizenship | Turkey<br>Nurhan_Atasoy | birthPlace | Turkey
+Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE<br>Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas<br>ENAIRE | locationCity | Madrid<br>Adolfo_Suárez_Madrid–Barajas_Airport | elevation | "609.6"^^xsd:double<br>Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | "14L/32R"
+11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania<br>11th_Mississippi_Infantry_Monument | country | "United States"@en
+University_of_Burgundy | staff | 2900<br>University_of_Burgundy | numberOfDoctoralStudents | 1299<br>University_of_Burgundy | campus | Dijon<br>University_of_Burgundy | city | Dijon
+Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en<br>All_India_Council_for_Technical_Education | location | Mumbai<br>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en<br>Bangalore | founder | Kempe_Gowda_I<br>Acharya_Institute_of_Technology | city | Bangalore<br>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education<br>Acharya_Institute_of_Technology | state | Karnataka
+Alan_Shepard | birthDate | "1923-11-18"^^xsd:date<br>Alan_Shepard | nationality | United_States<br>Alan_Shepard | years | 1963<br>Alan_Shepard | deathPlace | California<br>Alan_Shepard | birthPlace | New_Hampshire<br>Alan_Shepard | almaMater | "NWC, M.A. 1957"@en<br>Alan_Shepard | status | "Deceased"@en
+Bootleg_Series_Volume_1:_The_Quine_Tapes | recordLabel | Universal_Music_Group<br>Universal_Music_Group | parentCompany | Vivendi<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | artist | The_Velvet_Underground<br>The_Velvet_Underground | formerBandMember | Lou_Reed
+Nurhan_Atasoy | birthDate | 1934-01-01<br>Nurhan_Atasoy | residence | Istanbul<br>Nurhan_Atasoy | citizenship | Turkey<br>Nurhan_Atasoy | birthPlace | Turkey<br>Nurhan_Atasoy | nationality | Turkish_people<br>Nurhan_Atasoy | residence | Turkey
+Expect_a_Miracle | runtime | 54.56666666666667
+Pontiac_Rageous | productionStartYear | 1997-01-01<br>Pontiac_Rageous | productionEndYear | 1997-01-01
+Super_Capers | starring | Justin_Whalin<br>Super_Capers | writer | Ray_Griggs_(director)
+The_Fellowship_of_the_Ring | subsequentWork | The_Two_Towers<br>The_Hobbit | literaryGenre | Juvenile_fantasy<br>The_Hobbit | literaryGenre | High_fantasy<br>The_Fellowship_of_the_Ring | author | J._R._R._Tolkien<br>The_Fellowship_of_the_Ring | previousWork | The_Hobbit
+Bedford_Aerodrome | city | Bedford_Autodrome<br>Bedford_Aerodrome | location | Thurleigh
+Mexico | currency | Mexican_peso<br>Mexico | demonym | Mexicans<br>Bionico | ingredient | Granola<br>Bionico | region | Jalisco<br>Bionico | country | Mexico
+Bionico | course | Dessert<br>Bionico | country | Mexico<br>Mexico | leader | Enrique_Peña_Nieto
+University_of_Burgundy | city | Dijon<br>University_of_Burgundy | country | France
+Andrew_Rayel | genre | Trance_music<br>Andrew_Rayel | associatedMusicalArtist | Jwaydan_Moyine
+Hypermarcas | foundingYear | 2001-01-01<br>Hypermarcas | type | S.A._(corporation)<br>Hypermarcas | subsidiary | Mantecorp
+1147_Stavropolis | apoapsis | 418476000000.0<br>1147_Stavropolis | orbitalPeriod | 1249.6<br>1147_Stavropolis | discoverer | Grigory_Neujmin<br>1147_Stavropolis | absoluteMagnitude | 11.5<br>1147_Stavropolis | discovered | 1929-06-11<br>1147_Stavropolis | rotationPeriod | 20378.5<br>1147_Stavropolis | periapsis | 260855000000.0
+Ciudad_Ayala | leaderTitle | Governator<br>Ciudad_Ayala | isPartOf | Morelos<br>Ciudad_Ayala | country | Mexico
+University_of_Burgundy | numberOfUndergraduateStudents | 16800<br>University_of_Burgundy | staff | 2900<br>University_of_Burgundy | numberOfStudents | 27400<br>University_of_Burgundy | numberOfDoctoralStudents | 1299<br>University_of_Burgundy | city | Dijon
+Piotr_Hallmann | birthPlace | Gdynia<br>Piotr_Hallmann | weight | 70308.0<br>Gdynia | timeZone | Central_European_Time<br>Gdynia | timeZone | Central_European_Summer_Time
+Nurhan_Atasoy | birthDate | 1934-01-01<br>Nurhan_Atasoy | nationality | Turkish_people
+Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca<br>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C<br>Campeonato_Brasileiro_Série_C | country | Brazil<br>Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger<br>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca
+Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca<br>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C<br>Agremiação_Sportiva_Arapiraquense | season | 2015<br>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube<br>Agremiação_Sportiva_Arapiraquense | capacity | "17000"^^xsd:nonNegativeInteger<br>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca<br>Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"@en
+Andrzej_Piotr_Ruszczyński | knownFor | Stochastic_programming
+Live_at_Roadburn_2008_(Year_of_No_Light_album) | producer | Roadburn_Festival
+Mermaid_(Train_song) | subsequentWork | Imagine_(John_Lennon_song)<br>Mermaid_(Train_song) | producer | Espionage_(production_team)<br>Mermaid_(Train_song) | writer | Pat_Monahan
+Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University<br>Acharya_Institute_of_Technology | city | Bangalore<br>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education
+Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en<br>All_India_Council_for_Technical_Education | location | Mumbai<br>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University<br>Acharya_Institute_of_Technology | city | Bangalore<br>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education
+Ciudad_Ayala | leaderTitle | City Manager
+Pontiac_Rageous | manufacturer | Pontiac<br>Pontiac | foundationPlace | United_States<br>Pontiac_Rageous | productionStartYear | 1997-01-01<br>Pontiac | successor | Buick
+New_Jersey | areaWater | 3544040000.0
+Ciudad_Ayala | utcOffset | −6<br>Ciudad_Ayala | country | Mexico
+English_Without_Tears | producer | Anatole_de_Grunwald<br>Anatole_de_Grunwald | birthPlace | Saint_Petersburg
+Bootleg_Series_Volume_1:_The_Quine_Tapes | genre | Rock_music<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | previousWork | Squeeze_(The_Velvet_Underground_album)<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | recordLabel | Polydor_Records<br>Bootleg_Series_Volume_1:_The_Quine_Tapes | recordedIn | San_Francisco
+English_language | iso6392Code | eng
+Hypermarcas | numberOfEmployees | 10252
+11th_Mississippi_Infantry_Monument | established | 2000<br>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania<br>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania
+Brandon_Carter | birthPlace | England<br>Brandon_Carter | almaMater | University_of_Cambridge<br>University_of_Cambridge | viceChancellor | Leszek_Borysiewicz
+Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca<br>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C<br>Agremiação_Sportiva_Arapiraquense | season | 2015<br>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube<br>Campeonato_Brasileiro_Série_C | country | Brazil<br>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca<br>Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"@en
+Mermaid_(Train_song) | genre | Pop_rock<br>Mermaid_(Train_song) | runtime | 3.2666666666666666<br>Mermaid_(Train_song) | releaseDate | 2012-12-27<br>Mermaid_(Train_song) | previousWork | This'll_Be_My_Year<br>Mermaid_(Train_song) | writer | Espen_Lind
+Nord_(Year_of_No_Light_album) | artist | Year_of_No_Light<br>Nord_(Year_of_No_Light_album) | recordLabel | Crucial_Blast<br>Nord_(Year_of_No_Light_album) | recordLabel | E-Vinyl
+Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca<br>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C<br>Agremiação_Sportiva_Arapiraquense | season | 2015<br>Campeonato_Brasileiro_Série_C | country | Brazil<br>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca
+Aaron_Turner | genre | Post-metal<br>Aaron_Turner | instrument | Singing<br>Aaron_Turner | associatedBand | Twilight_(band)<br>Aaron_Turner | hometown | Boston
+The_Fellowship_of_the_Ring | subsequentWork | The_Two_Towers<br>The_Fellowship_of_the_Ring | author | J._R._R._Tolkien<br>The_Fellowship_of_the_Ring | releaseDate | 1954-07-29<br>The_Fellowship_of_the_Ring | previousWork | The_Hobbit
+Ciudad_Ayala | populationDensity | 1603.87<br>Ciudad_Ayala | isPartOf | Morelos
+Darinka_Dentcheva | citizenship | United_States<br>Darinka_Dentcheva | field | Mathematical_optimization
+GMA_New_Media | location | GMA_Network_Center<br>GMA_New_Media | location | Philippines<br>GMA_New_Media | industry | Entertainment
