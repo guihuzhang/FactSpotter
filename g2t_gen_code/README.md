@@ -99,7 +99,7 @@ CUDA_VISIBLE_DEVICES=0 TRANSFORMERS_OFFLINE=1 python code/cli_gt.py \
 | GrailQA |[Inria-CEDAR/GrailQABartL](https://huggingface.co/Inria-CEDAR/GrailQABartL) <br>[Inria-CEDAR/GrailQABartB](https://huggingface.co/Inria-CEDAR/GrailQABartB) <br>[Inria-CEDAR/GrailQAT5JointGT](https://huggingface.co/Inria-CEDAR/GrailQAT5JointGT) <br>[Inria-CEDAR/GrailQAT5B](https://huggingface.co/Inria-CEDAR/GrailQAT5B) <br>[Inria-CEDAR/GrailQAT5S](https://huggingface.co/Inria-CEDAR/GrailQAT5S) |
 | WebNLG17Const |[Inria-CEDAR/WebNLG17ConstBartL](https://huggingface.co/Inria-CEDAR/WebNLG17ConstBartL) <br>[Inria-CEDAR/WebNLG17ConstBartB](https://huggingface.co/Inria-CEDAR/WebNLG17ConstBartB) <br>[Inria-CEDAR/WebNLG17ConstT5JointGT](https://huggingface.co/Inria-CEDAR/WebNLG17ConstT5JointGT) <br>[Inria-CEDAR/WebNLG17ConstT5B](https://huggingface.co/Inria-CEDAR/WebNLG17ConstT5B) <br>[Inria-CEDAR/WebNLG17ConstT5S](https://huggingface.co/Inria-CEDAR/WebNLG17ConstT5S) |
 | WebNLG20 |[Inria-CEDAR/WebNLG20T5JointGT](https://huggingface.co/Inria-CEDAR/WebNLG20T5JointGT) <br>[Inria-CEDAR/WebNLG20BartL](https://huggingface.co/Inria-CEDAR/WebNLG20BartL) <br>[Inria-CEDAR/WebNLG20BartB](https://huggingface.co/Inria-CEDAR/WebNLG20BartB) <br>[Inria-CEDAR/WebNLG20T5B](https://huggingface.co/Inria-CEDAR/WebNLG20T5B) <br>[Inria-CEDAR/WebNLG20T5S](https://huggingface.co/Inria-CEDAR/WebNLG20T5S) |
-
+|DART|[Inria-CEDAR/DartT5S](https://huggingface.co/Inria-CEDAR/DartT5S) <br>[Inria-CEDAR/DartT5B](https://huggingface.co/Inria-CEDAR/DartT5B) <br>[Inria-CEDAR/DartT5JointGT](https://huggingface.co/Inria-CEDAR/DartT5JointGT) <br>[Inria-CEDAR/DartBartB](https://huggingface.co/Inria-CEDAR/DartBartB) <br>[Inria-CEDAR/DartBartL](https://huggingface.co/Inria-CEDAR/DartBartL)|
 
 ## Thanks
 
