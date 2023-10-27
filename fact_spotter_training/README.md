@@ -16,3 +16,6 @@ F1, confusion matrix of FactSpotter on test split:
 
 You can change variables `model_state_dict` and `eval_dataset` 
 to get performance of different datasets by different models.
+
+The weights for different datasets are available on 
+[GoogleDrive](https://drive.google.com/drive/folders/1zsXmo2XPCmN60j90_BbIIs18l7DSI6PL?usp=sharing)

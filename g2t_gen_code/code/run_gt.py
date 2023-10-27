@@ -154,7 +154,7 @@ def run(args, logger):
 
     if args.do_predict:
         # Inference on the test set
-        if "kgpt" not in args.model_name:
+        if ("kgpt" not in args.model_name) and ("out" in args.output_dir):
             checkpoint = args.output_dir
         else:
             checkpoint = args.model_path
