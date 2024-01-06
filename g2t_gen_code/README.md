@@ -19,6 +19,7 @@ improve the factual faithfulness of generation.
 The code would encounter some bugs on Transformers >= 4.29.
 
 * Numpy 1.20
+
 In the code of the file g2t_gen_code/code/data.py at line 1120. In __getitem__ method of the WebNLGDataset class, np.int alias is used for instantiating a NumPy array. However, as stated in the NumPy doc, this alias is identical to the built-in int type and is no longer supported as of NumPy 1.20. If the numpy you use is higher than 1.20, the bug on certain environments can be solved easily by replacing the np.int with int. Thanks for the advice of [WilliamAboucaya](https://github.com/WilliamAboucaya). 
 
 ## Datasets
