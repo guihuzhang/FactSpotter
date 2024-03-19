@@ -1,5 +1,17 @@
 # Training Code of FactSpotter
 
+We recently provide a better DeBERTaV3 version of FactSpotter. 
+
+Model links:
+
+https://huggingface.co/Inria-CEDAR/FactSpotter-DeBERTaV3-Large
+
+https://huggingface.co/Inria-CEDAR/FactSpotter-DeBERTaV3-Base
+
+https://huggingface.co/Inria-CEDAR/FactSpotter-DeBERTaV3-Small
+
+## FactSpotter Training
+
 This is codebase of training FactSpotter metric. 
 
 To train it on different dataset, please run the following scripts:
