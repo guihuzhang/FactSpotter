@@ -17,3 +17,13 @@ In each folder there is a `README.md` which tells how to run their codes.
 
 File `generation_sample_annotation_v2` has human annotation for generated samples 
 before and after using FactSpotter in generation.
+
+We recently provide a better DeBERTaV3 version of FactSpotter. 
+
+Model links:
+
+https://huggingface.co/Inria-CEDAR/FactSpotter-DeBERTaV3-Large
+
+https://huggingface.co/Inria-CEDAR/FactSpotter-DeBERTaV3-Base
+
+https://huggingface.co/Inria-CEDAR/FactSpotter-DeBERTaV3-Small
